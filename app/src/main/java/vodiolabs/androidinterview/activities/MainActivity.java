@@ -1,4 +1,4 @@
-package vodiolabs.androidinterview;
+package vodiolabs.androidinterview.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+
+import vodiolabs.androidinterview.R;
 
 
 public class MainActivity extends Activity {
